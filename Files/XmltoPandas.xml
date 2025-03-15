@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  
+       <BookCollection>
+  
+           <Info>
+           <Msg>Book Collection.</Msg>
+           </Info>
+  
+           <Book slNo="1">
+               <Author>"Seema Acharya"</Author>
+               <Title>"Fundamentals of Data Analysis"</Title>
+               <Publisher>"Wiley India"</Publisher>
+               <Year>2016</Year>
+           </Book>
+  
+           <Book slNo="2">
+              <Author>"Seema Acharya"</Author>
+               <Title>"Big Data Analytics"</Title>
+               <Publisher>"Wiley India"</Publisher>
+               <Year>2017</Year>
+           </Book>
+  
+           <Book slNo="3">
+               <Author>"Seema Acharya"</Author>
+               <Title>"Tableau"</Title>
+               <Publisher>"Apress"</Publisher>
+               <Year>2018</Year>
+           </Book>
+  
+           <Book slNo="4">
+              <Author>"Seema Acharya"</Author>
+               <Title>"Data Analysis using R"</Title>
+               <Publisher>"McGraw Hill"</Publisher>
+               <Year>2019</Year>
+           </Book>
+  
+       </BookCollection>
